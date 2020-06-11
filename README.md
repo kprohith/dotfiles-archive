@@ -34,7 +34,7 @@ I like to explore new languages, frameworks and technologies. Hence, I have a fo
 
 Shoutout to these amazing people and their dotfiles for inspiring my dotfiles in many ways.
 
-- [Github Dotfiles]](https://dotfiles.github.io) - A great compilation of dotfile resources.
+- [Github Dotfiles](https://dotfiles.github.io) - A great compilation of dotfile resources.
 - [@mathiasbynens](https://github.com/mathiasbynens/dotfiles) - The go-to place for dotfiles inspiration
 - [@paulirish](https://github.com/paulirish/dotfiles) - Another great repo of dotfile configs
 - [This blog post from Altassian](https://www.atlassian.com/git/tutorials/dotfiles)
