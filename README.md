@@ -1,6 +1,9 @@
-# kprohith's dotfiles
+# kprohith's [dotfiles]((https://github.com/kprohith/dotfiles)
 
-Top secret text files that optimize my terminal usage.
+I've copied and backed up all of my dotf into a git repo and pushed it onto [Github](https://github.com/kprohith/dotfiles)
+Altassian has a [great blog post](https://www.atlassian.com/git/tutorials/dotfiles) on how to go about this
+
+These dotfiles are *top secret* text files that optimize my terminal usage.
 
 Make sure you read the [About My Dotfiles](#about-my-dotfiles) section if you intend to use these.
 Currently under construction.
