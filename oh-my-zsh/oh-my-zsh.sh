@@ -1,3 +1,6 @@
+# If ZSH is not defined, use the current script's directory.
+[[ -z "$ZSH" ]] && export ZSH="${${(%):-%x}:a:h}"
+
 # Set ZSH_CACHE_DIR to the path where cache files should be created
 # or else we will use the default cache/
 if [[ -z "$ZSH_CACHE_DIR" ]]; then
@@ -6,7 +9,7 @@ fi
 
 # Check for updates on initial load...
 if [ "$DISABLE_AUTO_UPDATE" != "true" ]; then
-  env ZSH=$ZSH ZSH_CACHE_DIR=$ZSH_CACHE_DIR DISABLE_UPDATE_PROMPT=$DISABLE_UPDATE_PROMPT zsh -f $ZSH/tools/check_for_upgrade.sh
+  source $ZSH/tools/check_for_upgrade.sh
 fi
 
 # Initializes Oh My Zsh
