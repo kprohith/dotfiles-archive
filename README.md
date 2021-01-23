@@ -37,6 +37,7 @@ I like to explore new languages, frameworks and technologies. Hence, I have a fo
 
 Shoutout to these amazing people and their dotfiles for inspiring my dotfiles in many ways.
 
+- [@daviwil](https://github.com/daviwil) - His [Emacs From Scratch](https://www.youtube.com/playlist?list=PLEoMzSkcN8oPH1au7H6B7bBJ4ZO7BXjSZ) series is GOLD!
 - [Github Dotfiles](https://dotfiles.github.io) - A great compilation of dotfile resources.
 - [@mathiasbynens](https://github.com/mathiasbynens/dotfiles) - The go-to place for dotfiles inspiration
 - [@paulirish](https://github.com/paulirish/dotfiles) - Another great repo of dotfile configs
