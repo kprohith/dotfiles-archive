@@ -25,7 +25,8 @@ For example, to overwrite stuff in the `.bash_profile` file, make a file called 
 
 ## About My Dotfiles
 
-First up, my main OS of choice is Windows 10 Pro along with WSL2 running Debian and that's what my dotfiles are tailored to. I will eventually seperate out the wsl specific stuff.
+First up, my OS of choice on my work/university machine is Windows 10 Pro along with WSL2 running Debian and that's what my dotfiles are tailored to. I will eventually seperate out the wsl specific stuff.
+My main OS of choice on my development machine is [Gentoo](https://www.gentoo.org/) running [i3wm](https://i3wm.org/).
 
 Like everyone else who customizes their dotfiles, I have my own way of doing things. For example, all of my projects are in ~/Projects, and the `project` function makes a new folder in this directory and cd's into it. This may or may not suit and hence you should start by changing the values of the variables defined in the various files to what suits your needs (the PATH_TO_PROJECTS variable keeps track of my projects directory).
 
