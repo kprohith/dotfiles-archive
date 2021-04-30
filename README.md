@@ -1,6 +1,6 @@
 # kprohith's [dotfiles](https://github.com/kprohith/dotfiles)
 
-I've copied and backed up all of my dotf into a git repo and pushed it onto [Github](https://github.com/kprohith/dotfiles)
+I've  backed up all of my dotfiles into a git repo and pushed it onto [Github](https://github.com/kprohith/dotfiles)
 Altassian has a [great blog post](https://www.atlassian.com/git/tutorials/dotfiles) on how to go about this
 
 These dotfiles optimize my terminal usage.
